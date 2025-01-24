@@ -22,6 +22,7 @@ This Repository will hold assingments.
 ## My Interests 
  * Spending time with my family
  * Golfing
+![FORE!](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzV0NnVvbHZ0NTl1YzMycDFqenhnaWVjaW4yZTdleXN4MHIwbnVjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41m3ITmmdytnnc76/giphy.gif)
 
 ## Websites I Recommend
  1. [WRAL Weather](https://www.wral.com/weather/) The older I get the
