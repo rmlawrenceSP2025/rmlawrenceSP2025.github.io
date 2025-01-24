@@ -5,7 +5,7 @@ This Repository will hold assingments.
 # About Me 
 
 > I served 6 years in the US Navy as a nuclear machinist mate
- on board The Mighty Warship Hartford, a fast attack submarine 
+ on board The **Mighty Warship Hartford**, a fast attack submarine 
  in Groton CT. After I got out of the Navy my family and I
  moved to NC and I started worked at Carolina Handling
  servicing electric forklifts. I did that for about 4 years,
@@ -15,7 +15,7 @@ This Repository will hold assingments.
  automation systems. My goal is to take the skills learned 
  in this academic path and apply them to my current role.
 
-![USS Hartford](https://commons.wikimedia.org/wiki/File:USS_Hartford_%28SSN_768%29_Naval_Academy.jpg)
+![USS Hartford](https://upload.wikimedia.org/wikipedia/commons/6/67/USS_Hartford_%28SSN_768%29_Naval_Academy.jpg)
 
 
 
