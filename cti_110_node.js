@@ -9,7 +9,7 @@ const path = require('path');
 // This part sets up the database
 const {Pool} = require('pg');
 // You may need to modify the password or database name in the following line:
-const connectionString = `postgres://postgres:CTI_110_WakeTech@localhost/Gradebook`;
+const connectionString = `postgres://postgres:S13mens!@localhost/Gradebook_Meadows`;
 // The default password is CTI_110_WakeTech
 // The default database name is Gradebook
 const pool = new Pool({connectionString:connectionString})
@@ -46,6 +46,7 @@ router.get('/api/grades',function(req, res){
                     function(row){
                         console.log(`Student Name: ${row.first_name} ${row.last_name}`);
                         console.log(`Grade: ${row.total_grade}`);
+                        console.log("this is where the data is coming from")
                     }
             ); // End of forEach
             
